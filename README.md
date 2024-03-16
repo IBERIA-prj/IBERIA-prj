@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IBERIA-prj
-
+- This is IBERIA project
+-   Ultrasound (US) - radiomics 
 <!---
 IBERIA-prj/IBERIA-prj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
